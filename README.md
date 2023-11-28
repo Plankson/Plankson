@@ -6,7 +6,7 @@ Hello guys! 👋 My name is Yunpeng Qing. ✨
 
 🔍 My current research interests include reinforcement learning and offline reinforcement learning.
 
-🤝 Please feel free to contact me via email (qingyunpeng@zju.edu.cn) if you are interested in my research :)
+🤝 Please feel free to contact me via email (yunpeng.qing.cs@gmail.com) if you are interested in my research :)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Plankson&show_icons=true&theme=tokyonight&rank_icon=github" width="56%">
