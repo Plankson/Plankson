@@ -1,10 +1,10 @@
 Hello guys! 👋 My name is Yunpeng Qing. ✨
 
-🌱 I am currently a research assistant in the <a href="https://www.vipazoo.cn/" target="_blank" style="text-decoration: none">Visual Intelligence and Pattern Analysis (VIPA) Lab</a> @ <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a>.
+🌱 I am currently a third year Ph.D in the <a href="https://www.vipazoo.cn/" target="_blank" style="text-decoration: none"> State Key Laboratory of CAD & CG</a> @ <a href="https://www.zju.edu.cn/english/2018/0522/c19974a812968/page.htm" target="_blank" style="text-decoration: none">Zhejiang University</a>, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Changqing Zou>C h.
 
 🎓 I have received my B.E. degree from <a href="http://www.en.cs.zju.edu.cn/" target="_blank" style="text-decoration: none">the College of Computer Science, Zhejiang University</a>, in 2023.6.
 
-🔍 My current research interests include reinforcement learning and offline reinforcement learning.
+🔍 My current research interests include reinforcement learning for the Embodied AI Agent.
 
 🤝 Please feel free to contact me via email (yunpeng.qing.cs@gmail.com) if you are interested in my research :)
 
